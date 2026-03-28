@@ -115,7 +115,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                  LottieBuilder.asset('assets/cloudy.json'),
                 const SizedBox(height: 15),
                
-                /// 🔍 Search Box
+                ///  Search Box
                 Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: Form(
@@ -151,7 +151,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
 
                 const SizedBox(height: 50),
                  
-                /// 🌆 Main Card
+                ///  Main Card
                 Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: Container(
@@ -209,7 +209,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
 
                         const SizedBox(height: 10),
 
-                        /// 🌤 Weather List
+                        ///  Weather List
                         SizedBox(
                           height: 150, 
                           child: ListView.builder(
