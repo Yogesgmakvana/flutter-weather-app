@@ -29,7 +29,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
         "api.openweathermap.org",
         "/data/2.5/weather",
         {
-          "q": name, // ✅ dynamic city
+          "q": name,
           "appid": "7485469225f2ba175b970891c2ea5a7c",
           "units": "metric",
         },
@@ -104,7 +104,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
             height: double.infinity,
             child: Image.asset(
               'assets/background.jpg',
-              fit: BoxFit.cover, // ✅ fixed
+              fit: BoxFit.cover, 
             ),
           ),
 
@@ -211,7 +211,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
 
                         /// 🌤 Weather List
                         SizedBox(
-                          height: 150, // ✅ FIXED overflow
+                          height: 150, 
                           child: ListView.builder(
                             itemCount: weatherList.length,
                             itemBuilder: (context, index) {
