@@ -57,6 +57,10 @@ A modern and responsive **Weather Application built with Flutter** that provides
 
 
 
+
+https://github.com/user-attachments/assets/097c4a71-3447-4218-a919-e13ccd44fb0b
+
+
 ## ⚙️ Installation
 
 1. Clone the repository:
