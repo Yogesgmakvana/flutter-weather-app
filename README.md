@@ -132,7 +132,7 @@ If you like this project, give it a ⭐ on GitHub!
 
 ## 📧 Contact
 
-Your Name - [your@email.com](mailto:your@email.com)
-GitHub - https://github.com/your-username
+Your Name - [makwanay324@gmail.com](mailto:makwanay324@gmail.com)
+GitHub - https://github.com/Yogesgmakvana
 
 ---
